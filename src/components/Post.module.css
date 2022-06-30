@@ -39,7 +39,7 @@
   color: var(--gray-400);
 }
 
-.author{
+.author{ 
   display: flex;
   align-items: center;
   gap: 1rem;
